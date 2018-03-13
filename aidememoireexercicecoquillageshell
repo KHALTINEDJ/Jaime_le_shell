@@ -1,0 +1,57 @@
+Exercice 1 :
+cd Bureau
+   42  mkdir jaime le shell
+   43  mkdir "Jaime_le_shell"
+   44  ls
+   45  cd Jaime_le_shell/
+   46  mkdirtest2
+   47  mkdir test2
+   48  mkdir test3
+   49  mkdir test4
+   50  mkir test6
+   51  mkdir test6
+   52  ls
+   53  touch test1
+   54  touch test2
+   55  ls
+   56  touch test5
+   57  ls
+   58  ls -l
+   59  chmod g-w test1
+   60  ls -l
+   61  chmod g-w test2
+   62  ls-l
+   63  ls -l
+   64  chmod g-w
+   65  chmod g-w test3
+   66  ls -l
+   67  chmod g-w test4
+   68  ls -l
+   69  chmod g-w test5
+   70  ls -l
+   71  chmod g-w test6
+   72  ls -l
+   73  history
+
+Exercice 2:
+74  mkdir le_shell_cest_trop_cool!
+   75  ls
+   76  l
+   77  ls -l
+   78* chmod g-w le_shell_cest_trop_cool\!/
+   79  ls -l
+   80  history
+Exercice 3:
+ tree
+   82  sudo apt-get install tree
+   83  tree
+   84  mv test1 le_shell_cest_trop_cool\!/
+   85  tree
+   86  mv test5 le_shell_cest_trop_cool\!/
+   87  tree
+   88  cp -R test2 le_shell_cest_trop_cool\!/
+   89  cp -R test6 le_shell_cest_trop_cool\!/
+   90  tree
+   91  hsitory
+
+
